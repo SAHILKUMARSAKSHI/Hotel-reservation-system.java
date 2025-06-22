@@ -49,7 +49,7 @@ Hotel-reservation-system.java/
 ```bash
 git clone https://github.com/SAHILKUMARSAKSHI/Hotel-reservation-system.java.git
 
-Open in your favorite Java IDE (e.g., IntelliJ IDEA or VS Code).
+2.Open in your favorite Java IDE (e.g., IntelliJ IDEA or VS Code).
 
 Run the Main.java file to start the application.
 
@@ -65,7 +65,4 @@ This project is open-source under the MIT License.
 This system is built for academic/demo purposes. For production-level hotel management, integration with a database and GUI is recommended.
 
 
----
-
-Let me know if you want to include screenshots, flow diagrams, or if this should be adapted for a GUI-based or database-backed version.
 
